@@ -6,7 +6,7 @@
 
 ## About Me
 
-Cybersecurity Enthusiast | Off & Def Security | Exploit & Malware Development | OSINT Investigator | Digital Forensics | SOC Analyst (L1 & L2) | Mechanical Engineer Transitioning into Cybersecurity | GRC
+Cybersecurity Enthusiast | GRC | Risk & Compliance | Off & Def Security
 
 ---
 

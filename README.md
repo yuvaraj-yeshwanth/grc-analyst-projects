@@ -28,9 +28,9 @@ Cybersecurity Enthusiast | GRC | Risk & Compliance | Off & Def Security
 
 | # | Project | Industry | Frameworks |
 |---|---------|----------|-----------|
-| 01 | [TechStart Inc](./01-techstart-iso27001-nist) | SaaS | ISO 27001, NIST CSF |
+| 01 | [TechStart Inc](./01-techstart-iso27001) | SaaS | ISO 27001, NIST CSF |
 | 02 | [FinSecure Banking](./02-finsecure-pci-soc2) | Banking | PCI DSS, SOC 2 |
-| 03 | [DataFlow Analytics](./03-dataflow-soc2-nist) | Data Analytics | SOC 2, NIST CSF |
+| 03 | [DataFlow Analytics](./03-dataflow-soc2) | Data Analytics | SOC 2, NIST CSF |
 | 04 | [EuroShop GmbH](./04-euroshop-gdpr) | E-commerce | GDPR, ISO 27001 |
 | 05 | [HealthTech Systems](./05-healthtech-hipaa-nist) | Healthcare | HIPAA, NIST CSF |
 | 06 | [CloudNative Corp](./06-cloudnative-cis-nist) | Cloud Infrastructure | CIS Controls, NIST CSF |
